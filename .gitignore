@@ -1,0 +1,22 @@
+# Dataset (downloaded by the notebook, not source-controlled)
+coco128/
+coco128.zip
+
+# Model weights and training runs
+runs/
+*.pt
+
+# Generated at runtime by the notebook
+hitl_feedback.csv
+hitl_corrected_images/
+hitl_corrected_labels/
+hitl_graphs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.vscode/
